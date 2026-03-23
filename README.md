@@ -1,1 +1,1 @@
-# Nurseda
+# Nurseda ilk kodlar
